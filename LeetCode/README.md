@@ -43,13 +43,12 @@ All solutions are written in **C** and **C++**, with a focus on clarity and simp
 
 | 🟠 | Problem Name       | Language | File Link | Problem Link |
 |----|--------------------|----------|-----------|--------------|
-| —  | *To be added*      | —        | —         | -            |
+| —  | *To be added*      | —        | —         | —            |
 
 ---
 
 ## 📌 Notes
 
 - Each solution is self-contained and named for clarity  
-- File naming convention: `<problemnumberfilename.cpp>` or `.c`  
-- Comments include time complexity, edge case handling, and dry-run logic  
+- File naming convention: `problemNumberProblemName.cpp` or `problemNumberProblemName.c`    
 - This folder is part of a larger personal coding journal — contributions are not accepted
