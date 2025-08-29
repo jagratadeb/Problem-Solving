@@ -1,0 +1,6 @@
+Test/
+.vscode/
+*.exe
+*.out
+*/tempCodeRunnerFile.c
+*/tempCodeRunnerFile.cpp
