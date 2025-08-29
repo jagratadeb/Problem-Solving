@@ -41,9 +41,9 @@ All solutions are written in **C** and **C++**, with a focus on clarity and simp
 
 ## 🔐 Hard Problems
 
-| 🟠 | Problem Name       | Language | File Link | Notes |
-|----|--------------------|----------|-----------|-------|
-| —  | *To be added*      | —        | —         | Placeholder for upcoming solutions. |
+| 🟠 | Problem Name       | Language | File Link | Problem Link |
+|----|--------------------|----------|-----------|--------------|
+| —  | *To be added*      | —        | —         | -            |
 
 ---
 
