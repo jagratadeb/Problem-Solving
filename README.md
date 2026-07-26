@@ -1,5 +1,52 @@
-# Problem-Solving
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 Problem-Solving
+
+> A structured collection of my **LeetCode solutions**, focused on building strong problem-solving skills and preparing for software engineering interviews.
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![DSA](https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Repository-Active-brightgreen?style=for-the-badge&logo=github)
+
+---
+
+## 🧠 About This Repository
+
+This repository contains my solutions to **LeetCode problems**, organized by problem and topic.
+
+The primary goal is not simply to collect solved problems, but to improve my ability to:
+
+- 🔍 Identify the underlying problem pattern
+- 🧩 Break complex problems into smaller parts
+- ⚡ Choose efficient algorithms and data structures
+- 📈 Analyze time and space complexity
+- 🛠️ Write clean and maintainable C++ solutions
+- 🎯 Prepare for technical interviews
+
+I follow a **pattern-based approach** to DSA, where each problem is studied not only for its solution but also for the reusable technique behind it.
+
+---
+
+## 📚 Problem-Solving Approach
+
+For every problem, I try to follow this workflow:
+
+```text
+Understand
+    ↓
+Build Examples
+    ↓
+Identify Pattern
+    ↓
+Consider Edge Cases
+    ↓
+Develop Approach
+    ↓
+Analyze Complexity
+    ↓
+Implement
+    ↓
+Optimize
+```
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
