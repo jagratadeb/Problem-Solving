@@ -90,3 +90,6 @@ Optimize
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
+
+## 🛠️ Automation
+Repo is kept in sync automatically using [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm), a browser extension tool that pushes accepted LeetCode submissions straight to this repository.
