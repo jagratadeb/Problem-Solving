@@ -60,6 +60,7 @@ Optimize
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0525-contiguous-array) |
@@ -78,9 +79,14 @@ Optimize
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
