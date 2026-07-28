@@ -1,33 +1,30 @@
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
-        unordered_map<int, int> f;
-        int zero = 0;
-        int one = 0;
-        int res = 0;
-        int n = nums.size();
+        // Convert all 0s to -1s
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == 0) nums[i] = -1;
+        }
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0)
-                zero++;
-            else
-                one++;
+        int sum = 0;
+        int maxLength = 0;
 
-            int diff = zero - one;
+        unordered_map<int, int> f; 
+        // map[sum] = earliest index where this sum occurred
+        f[0] = -1; // sentinel value
 
-            if (diff == 0) {
-                res = max(res, i + 1);
-                continue;
-            }
+        for (int i = 0; i < nums.size(); i++) {
+            sum += nums[i];
 
-            if (f.find(diff) == f.end()) {
-                f[diff] = i;
+            if (f.find(sum) != f.end()) {
+                // If sum seen before, update maxLength
+                maxLength = max(maxLength, i - f[sum]);
             } else {
-                int index = f[diff];
-                int length = i - index;
-                res = max(res, length);
+                // Store first occurrence of this sum
+                f[sum] = i;
             }
         }
-        return res;
+
+        return maxLength;
     }
 };
