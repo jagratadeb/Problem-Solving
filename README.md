@@ -53,6 +53,7 @@ Optimize
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagratadeb/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,14 @@ Optimize
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
