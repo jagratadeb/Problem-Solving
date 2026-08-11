@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        
         intervals.push_back({newInterval[0], newInterval[1]});
 
         sort(intervals.begin(), intervals.end());
