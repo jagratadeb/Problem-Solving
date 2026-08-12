@@ -14,15 +14,11 @@ public:
 
             if (s1 <= s2) {
                 if (e1 >= s2) {
-                    int s = max(s1, s2);
-                    int e = min(e1, e2);
-                    res.push_back({s, e});
+                    res.push_back({max(s1, s2), min(e1, e2)});
                 }
             } else {
                 if (e2 >= s1) {
-                    int s = max(s1, s2);
-                    int e = min(e1, e2);
-                    res.push_back({s, e});
+                    res.push_back({max(s1, s2), min(e1, e2)});
                 }
             }
 
