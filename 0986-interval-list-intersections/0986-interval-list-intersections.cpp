@@ -12,21 +12,15 @@ public:
             int s2 = secondList[j][0];
             int e2 = secondList[j][1];
 
-            if (s1 <= s2) {
-                if (e1 >= s2) {
-                    res.push_back({max(s1, s2), min(e1, e2)});
-                }
-            } else {
-                if (e2 >= s1) {
-                    res.push_back({max(s1, s2), min(e1, e2)});
-                }
+            if (max(s1, s2) <= min(e1, e2)) {
+                    res.push_back({max(s1,s2), min(e1,e2)});
             }
 
             if(e1 < e2)
                 i++;
             else
                 j++;
+            }
+            return res;
         }
-        return res;
-    }
-};
+    };
