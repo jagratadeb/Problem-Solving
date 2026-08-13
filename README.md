@@ -100,6 +100,7 @@ Optimize
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jagratadeb/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/jagratadeb/Problem-Solving/tree/master/2769-find-the-maximum-achievable-number) |
 ## Sorting
 |  |
 | ------- |
