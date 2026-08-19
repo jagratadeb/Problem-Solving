@@ -3,7 +3,7 @@ public:
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
         int res = 0;
-        int max_diff = INT_MAX;
+        int min_diff = INT_MAX;
         int diff = 0;
         int n = nums.size();
 
@@ -17,15 +17,15 @@ public:
                     return sum;
                 else if (sum > target) {
                     diff = abs(sum - target);
-                    if (diff < max_diff) {
-                        max_diff = diff;
+                    if (diff < min_diff) {
+                        min_diff = diff;
                         res = sum;
                     }
                     right--;
                 } else {
                     diff = abs(sum - target);
-                    if (diff < max_diff) {
-                        max_diff = diff;
+                    if (diff < min_diff) {
+                        min_diff = diff;
                         res = sum;
                     }
                     left++;
