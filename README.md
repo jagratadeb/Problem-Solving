@@ -93,6 +93,7 @@ Optimize
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +134,10 @@ Optimize
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jagratadeb/Problem-Solving/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
