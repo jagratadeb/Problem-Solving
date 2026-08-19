@@ -53,6 +53,7 @@ Optimize
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jagratadeb/Problem-Solving/tree/master/0057-insert-interval) |
@@ -106,6 +107,7 @@ Optimize
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +119,7 @@ Optimize
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
