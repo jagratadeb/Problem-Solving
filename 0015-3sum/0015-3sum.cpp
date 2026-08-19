@@ -15,7 +15,6 @@ public:
 
             while (left < right) {
                 int sum = nums[left] + nums[right];
-
                 if (sum == target) {
                     res.push_back({nums[i], nums[left], nums[right]});
                     left++;
