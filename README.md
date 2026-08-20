@@ -92,6 +92,7 @@ Optimize
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -137,7 +138,12 @@ Optimize
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
