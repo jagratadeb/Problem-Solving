@@ -58,6 +58,7 @@ Optimize
 | [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jagratadeb/Problem-Solving/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/jagratadeb/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0503-next-greater-element-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ Optimize
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jagratadeb/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagratadeb/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jagratadeb/Problem-Solving/tree/master/0724-find-pivot-index) |
