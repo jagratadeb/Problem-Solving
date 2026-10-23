@@ -4,6 +4,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![Language](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
 ![DSA](https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Repository-Active-brightgreen?style=for-the-badge&logo=github)
 
