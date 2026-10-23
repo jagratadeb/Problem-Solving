@@ -67,6 +67,7 @@ Optimize
 | [0724-find-pivot-index](https://github.com/jagratadeb/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jagratadeb/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/jagratadeb/Problem-Solving/tree/master/0986-interval-list-intersections) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jagratadeb/Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jagratadeb/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
