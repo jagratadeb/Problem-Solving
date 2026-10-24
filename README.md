@@ -78,6 +78,7 @@ Optimize
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0525-contiguous-array) |
@@ -101,6 +102,7 @@ Optimize
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/jagratadeb/Problem-Solving/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -123,6 +125,7 @@ Optimize
 | [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quicksort
