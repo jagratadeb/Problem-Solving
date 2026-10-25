@@ -101,6 +101,7 @@ Optimize
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
@@ -138,6 +139,7 @@ Optimize
 | [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/jagratadeb/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +168,22 @@ Optimize
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0503-next-greater-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
