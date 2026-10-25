@@ -7,10 +7,10 @@ class Solution {
         char[] last = strs[strs.length - 1].toCharArray();
 
         int limit = Math.min(first.length, last.length);
-        for(int i = 0; i < limit; i++){
-            if(first[i] != last[i])
+        for (int i = 0; i < limit; i++) {
+            if (first[i] != last[i])
                 break;
-            result += first[i];
+            result = result + first[i];
         }
 
         return result;
