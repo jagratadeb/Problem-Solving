@@ -1,5 +1,6 @@
 class Solution {
     public int strStr(String haystack, String needle) {
+
         int left = 0;
         int right = needle.length() - 1;
 
