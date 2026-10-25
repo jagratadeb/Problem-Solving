@@ -54,6 +54,7 @@ Optimize
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jagratadeb/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jagratadeb/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -100,6 +101,7 @@ Optimize
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/jagratadeb/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
@@ -184,6 +186,10 @@ Optimize
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jagratadeb/Problem-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
