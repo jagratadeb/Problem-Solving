@@ -16,8 +16,7 @@ class Solution {
                     return false;
                 }
             } else {
-                char value = map.get(original);
-                if (replacement != value)
+                if (replacement != map.get(original))
                     return false;
             }
         }
