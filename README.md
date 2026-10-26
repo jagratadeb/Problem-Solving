@@ -79,6 +79,7 @@ Optimize
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/jagratadeb/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +106,7 @@ Optimize
 | [0020-valid-parentheses](https://github.com/jagratadeb/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/jagratadeb/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/jagratadeb/Problem-Solving/tree/master/0709-to-lower-case) |
