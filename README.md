@@ -121,6 +121,7 @@ Optimize
 | [0007-reverse-integer](https://github.com/jagratadeb/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jagratadeb/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/jagratadeb/Problem-Solving/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jagratadeb/Problem-Solving/tree/master/2769-find-the-maximum-achievable-number) |
@@ -192,6 +193,18 @@ Optimize
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jagratadeb/Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
