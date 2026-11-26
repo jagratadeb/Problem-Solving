@@ -79,6 +79,7 @@ Optimize
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/jagratadeb/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jagratadeb/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ Optimize
 | [0009-palindrome-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/jagratadeb/Problem-Solving/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jagratadeb/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/jagratadeb/Problem-Solving/tree/master/2652-sum-multiples) |
@@ -146,6 +148,7 @@ Optimize
 | [0016-3sum-closest](https://github.com/jagratadeb/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jagratadeb/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +214,10 @@ Optimize
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jagratadeb/Problem-Solving/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
 
 ## 🛠️ Automation
