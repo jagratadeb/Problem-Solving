@@ -60,6 +60,7 @@ Optimize
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jagratadeb/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/jagratadeb/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jagratadeb/Problem-Solving/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/jagratadeb/Problem-Solving/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/jagratadeb/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/jagratadeb/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jagratadeb/Problem-Solving/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ Optimize
 | [0007-reverse-integer](https://github.com/jagratadeb/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jagratadeb/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/jagratadeb/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jagratadeb/Problem-Solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0509-fibonacci-number) |
