@@ -113,6 +113,7 @@ Optimize
 | [0205-isomorphic-strings](https://github.com/jagratadeb/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagratadeb/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/jagratadeb/Problem-Solving/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jagratadeb/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -156,6 +157,7 @@ Optimize
 | [0202-happy-number](https://github.com/jagratadeb/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jagratadeb/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jagratadeb/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratadeb/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jagratadeb/Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0986-interval-list-intersections](https://github.com/jagratadeb/Problem-Solving/tree/master/0986-interval-list-intersections) |
